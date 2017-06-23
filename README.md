@@ -5,7 +5,7 @@ The System contains one main m-File and a few m-function-files which contain cer
 
 Right in the moment this branch contains this files:
 
-- main-file
+- master-file
 - CalculateResistance
 - CalculateViscosity
 - CalculateDensity
